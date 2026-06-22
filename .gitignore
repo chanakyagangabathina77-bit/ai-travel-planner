@@ -1,0 +1,16 @@
+﻿# Node modules
+**/node_modules
+
+# Environment files
+**/.env
+
+# Next.js build output
+.next
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Preserve the old nested frontend repo metadata as a local backup only
+frontend/.git.backup
