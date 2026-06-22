@@ -185,18 +185,6 @@ There is also a budget optimization endpoint that returns a heuristic lower-cost
 - There is no payment flow, trip sharing, or real-time collaboration.
 - The app depends on external services for MongoDB and Gemini during normal operation.
 
-## Walkthrough Video
-
-Video link: `ADD_YOUR_LINK_HERE`
-
-### Suggested 3–4 minute walkthrough flow
-
-1. Landing page and overall app flow
-2. Register/login flow and auth protection
-3. Create-trip form and AI generation
-4. Trip detail page with editing, regenerate, and budget/packing views
-5. Custom feature callout and design decisions
-
 ## Scripts
 
 - `npm run dev` in `frontend/`
